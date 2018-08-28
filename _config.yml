@@ -1,12 +1,12 @@
 # Site settings
-title: A blog about lorem ipsum dolor sit amet
-description: A blog about lorem ipsum dolor sit amet
+title: My Portfolio
+description: Emmanuel Victor Garcia's Portfolio
 baseurl: "" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Emmanuel Garcia
-user_description: Bicycle rights irony actually neutra typewriter lyft. Man bun taxidermy put a bird on it, umami yr ramps pop-up ugh bushwick chia lo-fi. Occupy bitters pour-over snackwave you probably haven't heard of them small batch. Cornhole mustache man bun letterpress echo park VHS.
+user_description: I've worked with different programming languages. For mobile applications I use Java, Kotlin, Swift and Javascript. Whenever I start creating new projects, I learn new language.
 user_title: Software Developer
 email: emmanuelgvictor@gmail.com
 twitter_username: lorem_ipsum
